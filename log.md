@@ -18,3 +18,12 @@ At the end, I've also realized that my code wasn't so beautiful as I thought 6 m
 **Thoughts:** Some pieces of code were repetitive. So today, I put that code inside one file and use it like an external module. 
 
 **Link to work:** [Oweather](https://github.com/david95thinkcode/Oweather)
+
+### Day 2: January 4, 2018
+
+
+**Today's Progress**: Finish freeCodeCamp challenge - Build a tribute Page
+
+**Thoughts:** It was fun.
+
+**Link to work:** [Build a tribute page](https://codepen.io/david95thinkcode/pen/XVRQao)
