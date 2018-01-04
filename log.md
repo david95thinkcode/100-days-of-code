@@ -15,6 +15,6 @@ At the end, I've also realized that my code wasn't so beautiful as I thought 6 m
 
 **Today's Progress**: Remove repetitve
 
-**Thoughts:** Some piece of code were repetitive. So today, I ut that code inside one file and use it like an external module. 
+**Thoughts:** Some pieces of code were repetitive. So today, I put that code inside one file and use it like an external module. 
 
 **Link to work:** [Oweather](https://github.com/david95thinkcode/Oweather)
