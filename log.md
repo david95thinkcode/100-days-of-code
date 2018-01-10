@@ -27,3 +27,11 @@ At the end, I've also realized that my code wasn't so beautiful as I thought 6 m
 **Thoughts:** It was fun.
 
 **Link to work:** [Build a tribute page](https://codepen.io/david95thinkcode/pen/XVRQao)
+
+### Day 3: January 10, 2018
+
+
+**Today's Progress**: Start freeCodeCamp challenge - Build a personnal portfolio Page
+
+**Link to work:** [Build a personnal portfolio Page](https://codepen.io/david95thinkcode/full/zppOay/)
+
