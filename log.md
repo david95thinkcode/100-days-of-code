@@ -35,3 +35,10 @@ At the end, I've also realized that my code wasn't so beautiful as I thought 6 m
 
 **Link to work:** [Build a personnal portfolio Page](https://codepen.io/david95thinkcode/full/zppOay/)
 
+### Day 4: January 16, 2018
+
+
+**Today's Progress**: Learn how to Connect to MySql DB using Java (JDBC)
+
+**Link to work:** Just ugly p) 
+
