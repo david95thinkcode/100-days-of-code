@@ -40,5 +40,20 @@ At the end, I've also realized that my code wasn't so beautiful as I thought 6 m
 
 **Today's Progress**: Learn how to Connect to MySql DB using Java (JDBC)
 
-**Link to work:** Just ugly p) 
+**Link to work:** [In my computer]() 
 
+### Day 5: January 17, 2018
+
+
+**Today's Progress**: Some bugs was fixed and repetitve code was put on a shared file
+
+**Link to work:**  [Oweather](https://github.com/david95thinkcode/Oweather)
+
+### Day 6: January 18, 2018
+
+
+**Today's Progress**: Code reviewed and few changes applied
+
+**Link to work:** [Oweather](https://github.com/david95thinkcode/Oweather)
+
+**Thoughts:** I was so tired so I didn't code seriously :( 
