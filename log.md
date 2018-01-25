@@ -57,3 +57,14 @@ At the end, I've also realized that my code wasn't so beautiful as I thought 6 m
 **Link to work:** [Oweather](https://github.com/david95thinkcode/Oweather)
 
 **Thoughts:** I was so tired so I didn't code seriously :( 
+
+### Day 7: January 25, 2018
+
+
+**Today's Progress**: Build the big part of freecodecamp 2nd challenge / Progress in freecodeCamp
+
+**Link to work:** 
+- [freeCodeCamp-133](https://www.freecodecamp.org/challenges/compound-assignment-with-augmented-division)
+- [freeCodeCamp-SecondChallenge](https://codepen.io/david95thinkcode/full/zppOay/)
+
+**Thoughts:** It feels like I've become weak :( cause I've lost more that 3 our when codind for the second freecodecamp project (the portfolio)
